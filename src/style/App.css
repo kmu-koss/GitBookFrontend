@@ -1,0 +1,8 @@
+.App{
+    padding: 40px
+}
+
+.conetent{
+    display: flex;
+    flex-direction: column;
+}
